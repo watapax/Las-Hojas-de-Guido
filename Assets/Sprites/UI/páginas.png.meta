@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: f21b6ee6fcc81f54dbcb7248f2e02bf4
+timeCreated: 1447825138
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "p\xE1ginas_0"
+    21300002: "p\xE1ginas_1"
+    21300004: "p\xE1ginas_2"
+    21300006: "p\xE1ginas_3"
+    21300008: "p\xE1ginas_4"
+    21300010: "p\xE1ginas_5"
+    21300012: "p\xE1ginas_6"
+    21300014: "p\xE1ginas_7"
+    21300016: "p\xE1ginas_8"
+    21300018: "p\xE1ginas_9"
+    21300020: "p\xE1ginas_10"
+    21300022: "p\xE1ginas_11"
+    21300024: "p\xE1ginas_12"
+    21300026: "p\xE1ginas_13"
+    21300028: "p\xE1ginas_14"
+    21300030: "p\xE1ginas_15"
+    21300032: "p\xE1ginas_16"
+    21300034: "p\xE1ginas_17"
+    21300036: "p\xE1ginas_18"
+    21300038: "p\xE1ginas_19"
+    21300040: "p\xE1ginas_20"
+    21300042: "p\xE1ginas_21"
+    21300044: "p\xE1ginas_22"
+    21300046: "p\xE1ginas_23"
+    21300048: "p\xE1ginas_24"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "p\xE1ginas_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 853
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_1"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 853
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_2"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 853
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_3"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 853
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_4"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 853
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_5"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 853
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_6"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_7"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 682
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_8"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 682
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_9"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 682
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_10"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 682
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_11"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 682
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_12"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_13"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 511
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_14"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 511
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_15"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 511
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_16"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 511
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_17"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 511
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_18"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_19"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 340
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_20"
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 340
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_21"
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 340
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_22"
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 340
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_23"
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 340
+        width: 164
+        height: 171
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "p\xE1ginas_24"
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 96
+        width: 508
+        height: 165
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

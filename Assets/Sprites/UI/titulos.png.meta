@@ -1,0 +1,102 @@
+fileFormatVersion: 2
+guid: e8a531280eaa31e488f910a5d6a2dc92
+timeCreated: 1456429775
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Titulo Ingles
+    21300002: titulo portugues
+    21300004: titulo Japones
+    21300006: titulo Ingles
+    21300008: titulo portuges
+    21300010: titulo japones
+    21300012: "titulo espa\xF1ol"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: titulo Ingles
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 657
+        width: 346
+        height: 351
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: titulo portuges
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 662
+        width: 317
+        height: 312
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: titulo japones
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 621
+        width: 244
+        height: 392
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "titulo espa\xF1ol"
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 241
+        width: 318
+        height: 357
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
